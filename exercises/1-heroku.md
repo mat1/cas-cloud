@@ -5,7 +5,7 @@ Dazu ist ein Heroku Benutzer notwendig. Dieser Benutzer kann gratis (ohne Kredit
 
 ## Heroku Benutzer erstellen
 
-2. Auf https://heroku.com/ einen Benutzer erstellen
+1. Auf https://heroku.com/ einen Benutzer erstellen
 
 ## Neue App auf Heroku erstellen
 
