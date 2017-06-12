@@ -19,9 +19,7 @@ Dazu ist ein Heroku Benutzer notwendig. Dieser Benutzer kann gratis (ohne Kredit
 
 ![Heroku](images/2-heroku.png)
 
-4. Connect to GitHub
-
-Mit Benutzer "cas-demo" anmelden
+4. Connect to GitHub und mit Benutzer "cas-demo" anmelden
 
 5. "cas-organization" auswählen und nach "cas-demo" suchen
 
@@ -38,4 +36,4 @@ Mit Benutzer "cas-demo" anmelden
 ## Bonus: Pipeline einrichten
 
 Heroku erlaubt es, einfache [Deployment Pipelines](https://martinfowler.com/bliki/DeploymentPipeline.html) einzurichten.
-Dadurch wird die App in einem ersten Schritt auf einen Entwicklungsstage deployt und erst in einem späteren Schritt in die Produktion. 
+Dadurch wird die App in einem ersten Schritt auf einen Entwicklungsstage deployt und erst in einem späteren Schritt in die Produktion. Wenn du noch Zeit hast, kannst du versuchen eine Pipeline zu erstellen.
