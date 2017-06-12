@@ -1,6 +1,6 @@
 # App auf Heroku deployen
 
-Bei dieser Übung wird die Applikation https://github.com/mat1/cas-demo auf Heroku deployt.
+Bei dieser Übung wird die Applikation https://github.com/cas-organization/cas-demo auf Heroku deployt.
 Dazu ist ein Heroku Benutzer notwendig. Dieser Benutzer kann gratis (ohne Kreditkarte) erstellt werden.
 
 ## Heroku Benutzer erstellen
@@ -37,5 +37,5 @@ Mit Benutzer "cas-demo" anmelden
 
 ## Bonus: Pipeline einrichten
 
-Heroku erlaubt es einfache [Deployment Pipelines](https://martinfowler.com/bliki/DeploymentPipeline.html) einzurichten.
+Heroku erlaubt es, einfache [Deployment Pipelines](https://martinfowler.com/bliki/DeploymentPipeline.html) einzurichten.
 Dadurch wird die App in einem ersten Schritt auf einen Entwicklungsstage deployt und erst in einem späteren Schritt in die Produktion. 
